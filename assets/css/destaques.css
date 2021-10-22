@@ -18,6 +18,7 @@
   grid-template-columns: 25% 25% 25% 25%;
   grid-template-rows: 33.33% 33.33% 33.33%;
   height: calc(100vh - 50px);
+  padding: 0 1rem;
 }
 
 .destaques__titulo {
@@ -60,10 +61,11 @@
   background: #fdfdfd;
   border-left: 5px solid transparent;
   color: #333333;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
 
   display: flex;
   align-items: center;
-  
+
   padding-left: 16px;
   margin: 8px;
 }
