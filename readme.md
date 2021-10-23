@@ -1,4 +1,4 @@
-# Grid Store [![](https://img.shields.io/badge/View-Veja%20voc%C3%AA%20mesmo-green)](https://duducmt.github.io/grid-store/)
+# Grid Store [![](https://img.shields.io/badge/View-Veja%20voc%C3%AA%20mesmo-blue)](https://duducmt.github.io/grid-store/) [![](https://img.shields.io/badge/license-MIT-green)](https://github.com/duduCMT/grid-store/blob/master/LICENSE)
 
 ## 📝 Descrição
 
