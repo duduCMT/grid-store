@@ -1,7 +1,7 @@
 .cabecalho{
   display: flex;
   align-items: center;
-  padding: 2rem 2rem;
+  padding: 1.2rem 2.5rem;
   font-size: 1.2rem;
 }
 
@@ -16,9 +16,9 @@
 
 @media screen and (max-width: 425px){
   .cabecalho {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19);
     padding: 8px;
-    border-bottom: 2px solid #dcdcdc;
-    margin: 8px;
+    margin-bottom: 1rem;
   }
   
   .menu__link{
