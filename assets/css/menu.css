@@ -13,3 +13,28 @@
 .menu__link:hover, .menu__link.ativo {
   border-bottom: 2px solid #0073e6;
 }
+
+@media screen and (max-width: 425px){
+  .cabecalho {
+    padding: 8px;
+    border-bottom: 2px solid #dcdcdc;
+    margin: 8px;
+  }
+  
+  .menu__link{
+    display: block;
+    padding: 8px 0;
+    text-align: center;
+    width: 100%;
+  } 
+
+  .menu__link:hover, .menu__link.ativo {
+    border-bottom: none;
+  }
+
+  .menu {
+    width: 100%;
+  }
+
+
+}
